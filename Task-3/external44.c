@@ -41,7 +41,7 @@ int main(int argc, char *argv[]) {
 
 	//Create the mailbox for this process and store it's IDs
 	int msqid = msgget((CENTRAL_MAILBOX + uid), 0600 | IPC_CREAT);
-//	printf("uid %d  mbox %d\n",uid, msqid);
+	printf("uid %d  mbox %d\n",uid, msqid);
 	//Initialize the message to be sent
 	cmbox.priority = 1;
 	cmbox.pid = uid;
