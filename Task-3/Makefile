@@ -1,10 +1,10 @@
 CC=gcc
 CFLAGS= -Wall -pedantic -g -pthread
 
-all: central44.o external44.o
+all: central442t.o external442t.o
 
-central44.o: central44.c central44.h
-	$(CC) $(CFLAGS) central44.c central44.h -o central44
+central442t.o: central442t.c central442t.h
+	$(CC) $(CFLAGS) central442t.c central442t.h -o central442t
 
-external44.o: external44.c external44.h
-	$(CC) $(CFLAGS) external44.c external44.h -o external44
+external442t.o: external442t.c external442t.h
+	$(CC) $(CFLAGS) external442t.c external442t.h -o external442t

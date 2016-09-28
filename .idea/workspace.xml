@@ -11,11 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b335a45d-42d4-4c93-be7d-622018d5debd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-3/external44" afterPath="$PROJECT_DIR$/Task-3/external44" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-3/external44.c" afterPath="$PROJECT_DIR$/Task-3/external44.c" />
-    </list>
+    <list default="true" id="b335a45d-42d4-4c93-be7d-622018d5debd" name="Default" comment="" />
     <ignored path="s3495671_osp_2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="central44.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="central44.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Task-3/central44.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="103" column="3" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
+            <state relative-caret-position="254">
+              <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -54,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="external44.c" pinned="false" current-in-tab="false">
+      <file leaf-file-name="external44.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Task-3/external44.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -455,12 +451,12 @@
       <workItem from="1474842237546" duration="4212000" />
       <workItem from="1474868750863" duration="36000" />
       <workItem from="1474868800250" duration="213000" />
-      <workItem from="1474932677314" duration="1390000" />
+      <workItem from="1474932677314" duration="1749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12854000" />
+    <option name="totallyTimeSpent" value="13213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -788,18 +784,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-3/external44.c">
+    <entry file="file://$PROJECT_DIR$/Task-3/central44.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="254">
+          <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-3/central44.c">
+    <entry file="file://$PROJECT_DIR$/Task-3/external44.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="103" column="3" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
+        <state relative-caret-position="396">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>

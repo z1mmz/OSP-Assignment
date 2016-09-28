@@ -3,7 +3,7 @@
 // Created by s3495671 s3495671 on 10/09/16.
 //
 
-#include "central44.h"
+#include "central442t.h"
 #include <sys/ipc.h>
 #include <sys/types.h>
 #include <sys/msg.h>
